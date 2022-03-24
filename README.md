@@ -80,11 +80,6 @@ _Обратите внимание_: вопросы немного устаре�
 - :floppy_disk: [Пример файла `.gitignore`](./assets/.gitignore)
 - :floppy_disk: [Пример файла `settings.json`](./assets/settings.json)
 
-## Проекты
-
-- :link: [Статьи и туториалы из моего блога на `Habr`](https://github.com/harryheman/Blog-Posts)
-- :link: [Утилита, облегчающая работу с `Fetch API`](https://github.com/harryheman/simple-fetch)
-- :link: [Утилита, облегчающая работу с `Internationalization API`](https://github.com/harryheman/easy-intl)
 
 ## Полезные ссылки
 
